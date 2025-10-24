@@ -1,0 +1,41 @@
+owner_id,name,restaurant_name,email,phone,city,cuisine
+1,John Davis,Shake Shack,john.davis@shakeshack.com,+1-212-555-1010,New York,American
+2,Sarah Cohen,Katz's Delicatessen,sarah.cohen@katzdeli.com,+1-212-555-1020,New York,Deli
+3,Marco Rossi,Joe's Pizza,marco.rossi@joespizza.com,+1-212-555-1030,New York,Pizza
+4,Claire Dubois,Le Bernardin,claire.dubois@lebernardin.com,+1-212-555-1040,New York,French
+5,Diego Hernández,Los Tacos No. 1,diego.hernandez@lostacos.com,+1-212-555-1050,New York,Mexican
+6,Rachel Levine,Russ & Daughters,rachel.levine@russanddaughters.com,+1-212-555-1060,New York,Jewish
+7,David Chang,Momofuku Noodle Bar,david.chang@momofuku.com,+1-212-555-1070,New York,Asian Fusion
+8,Peter Luger,Peter Luger Steak House,peter.luger@plsteakhouse.com,+1-718-555-1080,Brooklyn,Steakhouse
+9,Dominic DeMarco,Di Fara Pizza,dominic.demarco@difarapizza.com,+1-718-555-1090,Brooklyn,Pizza
+10,Ahmed Karim,The Halal Guys,ahmed.karim@thehalalguys.com,+1-212-555-1100,New York,Middle Eastern
+11,Dan Barber,Blue Hill,dan.barber@bluehill.com,+1-212-555-1110,New York,American
+12,April Bloomfield,The Spotted Pig,april.bloomfield@spottedpig.com,+1-212-555-1120,New York,British
+13,Ken Oringer,Toro,ken.oringer@toro.com,+1-617-555-1130,Boston,Spanish
+14,George Berkowitz,Legal Sea Foods,george.berkowitz@legalseafoods.com,+1-617-555-1140,Boston,Seafood
+15,Giacomo De Luca,Giacomo's Ristorante,giacomo.deluca@giacomos.com,+1-617-555-1150,Boston,Italian
+16,Frank Portillo,Portillo's Hot Dogs,frank.portillo@portillos.com,+1-312-555-1160,Chicago,American
+17,Jimmy Bannos,The Purple Pig,jimmy.bannos@purplepig.com,+1-312-555-1170,Chicago,Mediterranean
+18,Brendan Sodikoff,Au Cheval,brendan.sodikoff@aucheval.com,+1-312-555-1180,Chicago,American
+19,Stephanie Izard,Girl & The Goat,stephanie.izard@girlandthegoat.com,+1-312-555-1190,Chicago,Contemporary
+20,Charles Phan,The Slanted Door,charles.phan@slanteddoor.com,+1-415-555-1200,San Francisco,Vietnamese
+21,Chad Robertson,Tartine Bakery,chad.robertson@tartinebakery.com,+1-415-555-1210,San Francisco,Bakery
+22,Judy Rodgers,Zuni Café,judy.rodgers@zunicafe.com,+1-415-555-1220,San Francisco,Californian
+23,Corey Lee,Benu,corey.lee@benu.com,+1-415-555-1230,San Francisco,Asian Fusion
+24,Craig Stoll,Pizzeria Delfina,craig.stoll@pizzeriadelfina.com,+1-415-555-1240,San Francisco,Pizza
+25,Juan Cabrera,Tacos El Gordo,juan.cabrera@tacoselgordo.com,+1-702-555-1250,Las Vegas,Mexican
+26,Gordon Ramsay,Hell’s Kitchen,gordon.ramsay@hellskitchen.com,+1-702-555-1260,Las Vegas,British
+27,Saipin Chutima,Lotus of Siam,saipin.chutima@lotusofsiam.com,+1-702-555-1270,Las Vegas,Thai
+28,Joël Robuchon,Joël Robuchon,joel.robuchon@robuchon.com,+1-702-555-1280,Las Vegas,French
+29,Jesús Ortega,El Cardenal,jesus.ortega@elcardenal.com,+52-55-555-1290,Mexico City,Mexican
+30,Enrique Olvera,Pujol,enrique.olvera@pujol.com,+52-55-555-1300,Mexico City,Contemporary Mexican
+31,Gabriela Cámara,Contramar,gabriela.camara@contramar.com,+52-55-555-1310,Mexico City,Seafood
+32,Elena Reygadas,Rosetta,elena.reygadas@rosetta.com,+52-55-555-1320,Mexico City,Fusion
+33,Eduardo García,Maximo Bistrot,eduardo.garcia@maximobistrot.com,+52-55-555-1330,Mexico City,French
+34,Jiro Ono,Sukiyabashi Jiro,jiro.ono@sukiyabashijiro.com,+81-3-555-1340,Tokyo,Japanese
+35,Hiroshi Ichiran,Ichiran Ramen,hiroshi.ichiran@ichiran.com,+81-3-555-1350,Tokyo,Japanese
+36,Koji Kojyu,Ginza Kojyu,koji.kojyu@ginzakojyu.com,+81-3-555-1360,Tokyo,Japanese
+37,Yoshihiro Narisawa,Narisawa,yoshihiro.narisawa@narisawa.com,+81-3-555-1370,Tokyo,Modern Japanese
+38,François Laurent,Candelaria,francois.laurent@candelaria.com,+33-1-555-1380,Paris,Mexican Fusion
+39,Yves Camdeborde,Le Comptoir du Relais,yves.camdeborde@lecomptoir.com,+33-1-555-1390,Paris,French
+40,Bertrand Grébaut,Septime,bertrand.grebaut@septime.com,+33-1-555-1400,Paris,Contemporary French

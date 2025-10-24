@@ -1,0 +1,41 @@
+review_id,restaurant_name,user_name,rating,review_text,date,city,cuisine
+1,Shake Shack,Maria Lopez,4.5,"Great burgers and fries, fast service in Times Square.",11/15/2023,New York,American
+2,Katz's Delicatessen,John Smith,5,"The pastrami sandwich is legendary. A must-visit in NYC!",10/30/2023,New York,Deli
+3,Joe's Pizza,Ana Torres,4.8,"Classic New York slice — thin, crispy, and full of flavor.",9/22/2023,New York,Pizza
+4,Le Bernardin,David Chen,5,"Elegant dining experience. The seafood tasting menu was divine.",8/14/2023,New York,French
+5,Los Tacos No. 1,Carla Hernández,4.7,"Authentic Mexican street tacos, flavorful and fresh.",12/1/2023,New York,Mexican
+6,Russ & Daughters,Michael Green,4.6,"Loved the bagels and smoked salmon. A true NYC experience.",1/10/2024,New York,Jewish
+7,Momofuku Noodle Bar,Sofia Alvarez,4.3,"Ramen was flavorful, though the wait time was long.",2/25/2024,New York,Asian Fusion
+8,Peter Luger Steak House,Robert Taylor,4.9,"Amazing steak, classic atmosphere. Pricey but worth it.",3/17/2024,Brooklyn,Steakhouse
+9,Di Fara Pizza,Lucía Romero,4.8,"Incredible handmade pizza, though a bit of a wait.",4/8/2024,Brooklyn,Pizza
+10,The Halal Guys,Kevin White,4.4,"Great for a quick bite. Loved the chicken over rice!",5/12/2024,New York,Middle Eastern
+11,Blue Hill,Emily Johnson,4.9,"Farm-to-table perfection. Every dish was fresh and thoughtfully prepared.",6/3/2024,New York,American
+12,The Spotted Pig,Daniel Martínez,4.2,"Good gastropub vibes, but service could be faster.",6/20/2024,New York,British
+13,Toro,Laura Gómez,4.8,"Tapas were delicious, and the sangria was fantastic.",7/5/2024,Boston,Spanish
+14,Legal Sea Foods,Jason Lee,4.6,"Classic New England seafood. The clam chowder is unbeatable.",7/19/2024,Boston,Seafood
+15,Giacomo's Ristorante,Sarah Kim,4.7,"Cozy Italian spot with rich pasta dishes. Small but charming.",8/2/2024,Boston,Italian
+16,Portillo's Hot Dogs,Carlos Rivera,4.5,"Fun Chicago experience with great hot dogs and chocolate cake.",8/28/2024,Chicago,American
+17,The Purple Pig,Valentina Ruiz,4.8,"Incredible Mediterranean flavors and great wine list.",9/10/2024,Chicago,Mediterranean
+18,Au Cheval,David Brown,5,"Best burger in Chicago. Juicy, perfectly cooked, and worth the wait.",9/25/2024,Chicago,American
+19,Girl & The Goat,Luis Fernández,4.9,"Creative small plates, amazing service, and unique cocktails.",10/7/2024,Chicago,Contemporary
+20,The Slanted Door,Jessica Wu,4.6,"Modern Vietnamese with excellent presentation and flavors.",10/15/2024,San Francisco,Vietnamese
+21,Tartine Bakery,Andrés Morales,4.9,"Outstanding pastries and coffee. Croissants are world-class.",10/25/2024,San Francisco,Bakery
+22,Zuni Café,Elena Petrova,4.7,"Loved the roast chicken and cozy ambiance.",11/1/2024,San Francisco,Californian
+23,Benu,Hiroshi Tanaka,5,"A masterclass in fine dining. Innovative Asian-inspired tasting menu.",11/10/2024,San Francisco,Asian Fusion
+24,Pizzeria Delfina,Natalia Castro,4.5,"Delicious thin-crust pizza, fresh ingredients, casual vibe.",11/18/2024,San Francisco,Pizza
+25,Tacos El Gordo,Diego Navarro,4.8,"Best tacos in Las Vegas. Authentic flavor and friendly staff.",11/25/2024,Las Vegas,Mexican
+26,Gordon Ramsay Hell’s Kitchen,Paula Mendes,5,"Perfectly cooked beef Wellington. Great service and energy.",12/2/2024,Las Vegas,British
+27,Lotus of Siam,Victor Reyes,4.9,"The best Thai restaurant in the U.S. Amazing flavors.",12/10/2024,Las Vegas,Thai
+28,Joël Robuchon,Isabella Conti,5,"Elegant French haute cuisine. Every dish was art.",12/15/2024,Las Vegas,French
+29,El Cardenal,Mariana Ortiz,4.8,"Traditional Mexican breakfast. The chilaquiles are unbeatable.",12/20/2024,Mexico City,Mexican
+30,Pujol,Andrés González,5,"A world-class tasting menu reinventing Mexican cuisine.",12/28/2024,Mexico City,Contemporary Mexican
+31,Contramar,Sandra López,4.7,"Fresh seafood and vibrant atmosphere. Loved the tuna tostadas.",1/5/2025,Mexico City,Seafood
+32,Rosetta,Ricardo Torres,4.9,"Romantic setting with unique Mexican-Italian fusion dishes.",1/15/2025,Mexico City,Fusion
+33,Maximo Bistrot,Claudia Rojas,4.8,"Creative seasonal dishes and excellent wine selection.",1/25/2025,Mexico City,French
+34,Sukiyabashi Jiro,Akira Sato,5,"Perfection in every bite. Once-in-a-lifetime sushi experience.",2/3/2025,Tokyo,Japanese
+35,Ichiran Ramen,Yuki Nakamura,4.7,"Delicious tonkotsu ramen, love the solo dining booths.",2/10/2025,Tokyo,Japanese
+36,Ginza Kojyu,Naomi Tan,4.9,"Exceptional kaiseki meal. Elegant presentation and service.",2/20/2025,Tokyo,Japanese
+37,Narisawa,Kenji Watanabe,5,"Sustainable fine dining that tells a story through food.",2/25/2025,Tokyo,Modern Japanese
+38,Candelaria,Sophie Laurent,4.6,"Trendy taco bar with great cocktails. Cozy Parisian vibe.",3/5/2025,Paris,Mexican Fusion
+39,Le Comptoir du Relais,Pierre Dubois,4.8,"Authentic French bistro with excellent steak tartare.",3/10/2025,Paris,French
+40,Septime,Marie Lefevre,5,"Michelin-star experience. Minimalist and perfectly executed.",3/18/2025,Paris,Contemporary French
