@@ -191,10 +191,11 @@ http://localhost:3000
 ## 👨‍💻 Author
 
 **Selene Guerrero**
-Backend Development —
-Node.js | Express | MongoDB
+
+Backend Development — Node.js | Express | MongoDB
 
 ---
+
 
 
 
